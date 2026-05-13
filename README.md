@@ -202,7 +202,7 @@ Ensemble LOO-CV: RMSE = 0.943 kcal/mol · 95% CI = ±1.85 kcal/mol
 If you use this code, please cite:
 
 ```
-Shireen S, Nayeem SKM, Arhan SKMR. (2025).
+Shireen S, Nayeem Sk. Md, Arhan Sk. Md. Rameez (2026).
 Machine Learning-Driven Virtual Screening with Uncertainty Quantification
 Identifies Promising Hantavirus Antiviral Candidates: A Preliminary Computational Study.
 [Journal Name]. DOI: [pending]
